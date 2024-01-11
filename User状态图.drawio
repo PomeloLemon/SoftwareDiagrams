@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T18:25:54.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Uvn1lFGA6Se8OCrv75FM" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T18:26:51.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Wq_jC3Hk0Gs7wDWUgcrb" version="22.1.18" type="github">
   <diagram name="第 1 页" id="WLKe82YckZ-AthvR6e3o">
     <mxGraphModel dx="1173" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-23" value="账号密码比对中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RCA1XyX4HgtiH60jvFIx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-nO4xTUv9DtAdoL6QTUD-24" target="l6yJgwb1NW9B_2ungp-H-36">
+        <mxCell id="l6yJgwb1NW9B_2ungp-H-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-nO4xTUv9DtAdoL6QTUD-24" target="l6yJgwb1NW9B_2ungp-H-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-24" value="登录成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -126,11 +126,17 @@
         <mxCell id="l6yJgwb1NW9B_2ungp-H-25" value="SMS验证通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="749" y="654" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="l6yJgwb1NW9B_2ungp-H-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l6yJgwb1NW9B_2ungp-H-32" target="l6yJgwb1NW9B_2ungp-H-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6yJgwb1NW9B_2ungp-H-32" value="已注销" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1312" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="l6yJgwb1NW9B_2ungp-H-34" value="注销账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="278" width="70" height="30" as="geometry" />
+          <mxGeometry x="1235" y="275" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6yJgwb1NW9B_2ungp-H-36" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="285" width="30" height="30" as="geometry" />
+          <mxGeometry x="1497" y="285" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6yJgwb1NW9B_2ungp-H-42" value="SMS验证&lt;br&gt;未通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="831.5" y="716" width="170" height="30" as="geometry" />
