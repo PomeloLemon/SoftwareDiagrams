@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T15:07:15.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="UNQYXEZKUv8jnRk4y4xm" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T15:12:38.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="l3nM2EkWzRhFcg7Uy3bX" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1173" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDgGD3F3by6BS1TuUeTV-3" value="流水管理子系统" style="swimlane;startSize=20;html=1;" parent="oDgGD3F3by6BS1TuUeTV-1" vertex="1">
+        <mxCell id="oDgGD3F3by6BS1TuUeTV-3" value="投资管理子系统" style="swimlane;startSize=20;html=1;" parent="oDgGD3F3by6BS1TuUeTV-1" vertex="1">
           <mxGeometry x="340" y="20" width="320" height="830" as="geometry" />
         </mxCell>
         <mxCell id="oDgGD3F3by6BS1TuUeTV-14" value="提示用户选择时间范围" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
@@ -80,7 +80,7 @@
         <mxCell id="MLRtib8uveDzRYXszGFP-7" value="时间范围不合法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
           <mxGeometry x="84.99999999999955" y="341" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N0EZgWuifJ8vkwrzs6K3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oDgGD3F3by6BS1TuUeTV-3" source="MLRtib8uveDzRYXszGFP-8" target="N0EZgWuifJ8vkwrzs6K3-1">
+        <mxCell id="N0EZgWuifJ8vkwrzs6K3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oDgGD3F3by6BS1TuUeTV-3" source="MLRtib8uveDzRYXszGFP-8" target="N0EZgWuifJ8vkwrzs6K3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MLRtib8uveDzRYXszGFP-8" value="筛选投资信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
@@ -104,10 +104,10 @@
         <mxCell id="MLRtib8uveDzRYXszGFP-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
           <mxGeometry x="159.99999999999955" y="730" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N0EZgWuifJ8vkwrzs6K3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="oDgGD3F3by6BS1TuUeTV-3" source="N0EZgWuifJ8vkwrzs6K3-1" target="MLRtib8uveDzRYXszGFP-11">
+        <mxCell id="N0EZgWuifJ8vkwrzs6K3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="oDgGD3F3by6BS1TuUeTV-3" source="N0EZgWuifJ8vkwrzs6K3-1" target="MLRtib8uveDzRYXszGFP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N0EZgWuifJ8vkwrzs6K3-1" value="获取市场信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="oDgGD3F3by6BS1TuUeTV-3">
+        <mxCell id="N0EZgWuifJ8vkwrzs6K3-1" value="获取市场信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
           <mxGeometry x="110" y="495" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
