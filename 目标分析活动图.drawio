@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T15:13:46.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IhYNdGEF1THjTVF3FmIO" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T15:14:32.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VjTm45E5dUrcun5mwMNo" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="oDgGD3F3by6BS1TuUeTV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="oDgGD3F3by6BS1TuUeTV-2" source="oDgGD3F3by6BS1TuUeTV-7" target="oDgGD3F3by6BS1TuUeTV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oDgGD3F3by6BS1TuUeTV-7" value="进入流水管理页面" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-2" vertex="1">
+        <mxCell id="oDgGD3F3by6BS1TuUeTV-7" value="进入目标管理页面" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-2" vertex="1">
           <mxGeometry x="77.5" y="90" width="112.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oDgGD3F3by6BS1TuUeTV-8" value="点击消费习惯分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-2" vertex="1">
+        <mxCell id="oDgGD3F3by6BS1TuUeTV-8" value="点击目标分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-2" vertex="1">
           <mxGeometry x="77.5" y="150" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLRtib8uveDzRYXszGFP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oDgGD3F3by6BS1TuUeTV-2" source="MLRtib8uveDzRYXszGFP-2" target="MLRtib8uveDzRYXszGFP-16" edge="1">
@@ -83,7 +83,7 @@
         <mxCell id="MLRtib8uveDzRYXszGFP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oDgGD3F3by6BS1TuUeTV-3" source="MLRtib8uveDzRYXszGFP-8" target="MLRtib8uveDzRYXszGFP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MLRtib8uveDzRYXszGFP-8" value="筛选流水信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
+        <mxCell id="MLRtib8uveDzRYXszGFP-8" value="筛选目标信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
           <mxGeometry x="110" y="420" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLRtib8uveDzRYXszGFP-10" value="时间范围合法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
@@ -92,13 +92,13 @@
         <mxCell id="MLRtib8uveDzRYXszGFP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oDgGD3F3by6BS1TuUeTV-3" source="MLRtib8uveDzRYXszGFP-11" target="MLRtib8uveDzRYXszGFP-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MLRtib8uveDzRYXszGFP-11" value="进行消费习惯分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
+        <mxCell id="MLRtib8uveDzRYXszGFP-11" value="进行目标分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
           <mxGeometry x="110" y="480" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLRtib8uveDzRYXszGFP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oDgGD3F3by6BS1TuUeTV-3" source="MLRtib8uveDzRYXszGFP-14" target="MLRtib8uveDzRYXszGFP-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MLRtib8uveDzRYXszGFP-14" value="显示分析结果与建议" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
+        <mxCell id="MLRtib8uveDzRYXszGFP-14" value="显示分析结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
           <mxGeometry x="110" y="560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLRtib8uveDzRYXszGFP-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="oDgGD3F3by6BS1TuUeTV-3" vertex="1">
