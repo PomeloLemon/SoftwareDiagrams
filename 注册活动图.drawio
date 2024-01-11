@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T12:29:56.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="G5EiPjzZe6cq80BqWKM1" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T12:30:35.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="lQgX6jWOkBhGKSEWadig" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5s85hY_GPOJS1mKpv2UH-3" value="用户注册" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
+        <mxCell id="5s85hY_GPOJS1mKpv2UH-3" value="注册" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
           <mxGeometry x="120.00000000000045" y="120" width="590" height="890" as="geometry" />
         </mxCell>
         <mxCell id="5s85hY_GPOJS1mKpv2UH-4" value="用户" style="swimlane;startSize=20;html=1;" parent="5s85hY_GPOJS1mKpv2UH-3" vertex="1">
