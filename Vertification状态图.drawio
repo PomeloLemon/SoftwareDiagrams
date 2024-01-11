@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T17:23:10.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="lr_pnfT5q1sKllhvfYhC" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T17:24:01.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yEj1IozpkoGGjUPd-Ex1" version="22.1.18" type="github">
   <diagram name="第 1 页" id="WLKe82YckZ-AthvR6e3o">
     <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,17 +154,6 @@
         </mxCell>
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-57" value="接收用户输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="424" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-nO4xTUv9DtAdoL6QTUD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.49;entryY=0.324;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-nO4xTUv9DtAdoL6QTUD-54" target="-nO4xTUv9DtAdoL6QTUD-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1590" y="560" />
-              <mxPoint x="865" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-nO4xTUv9DtAdoL6QTUD-60" value="返回验证失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="533" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
