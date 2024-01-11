@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T14:40:41.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="d84RnpPyu6PZj4XL1jk-" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T14:40:55.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JmWpjcQZWgZdRFRI8LHt" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1655" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="LesqCqWZ4XYTkDxak_rp-80" value="选中一条目标信息" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="LesqCqWZ4XYTkDxak_rp-2" vertex="1">
           <mxGeometry x="170.00999999999942" y="159.99999999999994" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LesqCqWZ4XYTkDxak_rp-122" value="点击通知管理按钮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="LesqCqWZ4XYTkDxak_rp-2" vertex="1">
+        <mxCell id="LesqCqWZ4XYTkDxak_rp-122" value="点击管理通知按钮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="LesqCqWZ4XYTkDxak_rp-2" vertex="1">
           <mxGeometry x="170.00999999999942" y="219.99999999999994" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LesqCqWZ4XYTkDxak_rp-3" value="目标与通知子系统" style="swimlane;startSize=20;html=1;" parent="LesqCqWZ4XYTkDxak_rp-1" vertex="1">
