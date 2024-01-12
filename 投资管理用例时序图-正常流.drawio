@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T10:04:38.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kroBL2ouiebSohGT-Auh" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T10:10:02.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="fzDHjXiH2Qk3VUtig04y" version="22.1.18" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2464" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
         <mxCell id="ZWPyIBg1fmBrResqL_RG-1" value=":Wallet" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="660" y="50" width="100" height="2120" as="geometry" />
         </mxCell>
-        <mxCell id="ZWPyIBg1fmBrResqL_RG-2" value="par" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-2" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="109" width="1010" height="1031" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -277,22 +277,22 @@
           <mxGeometry x="195" y="1048" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-255" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="315" y="1205" width="10" height="106" as="geometry" />
+          <mxGeometry x="315" y="1205" width="10" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-256" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="315" y="2029" width="10" height="92" as="geometry" />
+          <mxGeometry x="311" y="2422" width="10" height="92" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-257" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="495" y="1341" width="10" height="56" as="geometry" />
+          <mxGeometry x="491" y="1734" width="10" height="56" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-258" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="495" y="1481" width="10" height="70" as="geometry" />
+          <mxGeometry x="491" y="1874" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-259" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="35" y="1180" width="10" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-260" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="35" y="1410" width="10" height="58" as="geometry" />
+          <mxGeometry x="31" y="1803" width="10" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-261" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0008" relative="1" as="geometry">
@@ -302,15 +302,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-262" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="155" y="1185" width="10" height="40" as="geometry" />
+          <mxGeometry x="155" y="1185" width="10" height="235" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-263" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="155" y="1581" width="10" height="130" as="geometry" />
+          <mxGeometry x="151" y="1974" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-264" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="155" y="2091" width="10" height="60" as="geometry" />
+          <mxGeometry x="155" y="2206" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZWPyIBg1fmBrResqL_RG-265" value="点击新增投资" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-265" value="点击投资管理" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0002" width="80" relative="1" as="geometry">
             <mxPoint x="45" y="1190" as="sourcePoint" />
             <mxPoint x="159.5" y="1190" as="targetPoint" />
@@ -318,85 +318,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-266" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="905" y="1962" width="10" height="120" as="geometry" />
+          <mxGeometry x="901" y="2355" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZWPyIBg1fmBrResqL_RG-267" value="创建投资记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="ZWPyIBg1fmBrResqL_RG-262">
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-267" value="创建投资记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0033" width="80" relative="1" as="geometry">
-            <mxPoint x="170" y="1215" as="sourcePoint" />
-            <mxPoint x="314.5" y="1215" as="targetPoint" />
+            <mxPoint x="161" y="1608" as="sourcePoint" />
+            <mxPoint x="310.5" y="1608" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-268" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;未初始化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1225" width="70" height="30" as="geometry" />
+          <mxGeometry x="281" y="1618" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-269" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;新建投资产品&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="369" y="1249" width="90" height="30" as="geometry" />
+          <mxGeometry x="365" y="1642" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-270" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="325" y="1273" as="sourcePoint" />
-            <mxPoint x="499.5" y="1273" as="targetPoint" />
+            <mxPoint x="321" y="1666" as="sourcePoint" />
+            <mxPoint x="495.5" y="1666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-271" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;提示选择产品&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55.06999999999999" y="1395" width="90" height="30" as="geometry" />
+          <mxGeometry x="51.06999999999999" y="1788" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-272" value="输入投资信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0002" relative="1" as="geometry">
-            <mxPoint x="40.5" y="1661" as="sourcePoint" />
-            <mxPoint x="155" y="1661" as="targetPoint" />
+            <mxPoint x="36.5" y="2054" as="sourcePoint" />
+            <mxPoint x="151" y="2054" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-273" value="获得投资信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0001" relative="1" as="geometry">
-            <mxPoint x="165.04" y="1683" as="sourcePoint" />
-            <mxPoint x="319.54" y="1683" as="targetPoint" />
+            <mxPoint x="161.04" y="2076" as="sourcePoint" />
+            <mxPoint x="315.54" y="2076" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-274" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.961;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="315.00000000000017" y="1591" as="sourcePoint" />
-            <mxPoint x="159" y="1591" as="targetPoint" />
+            <mxPoint x="311.00000000000017" y="1984" as="sourcePoint" />
+            <mxPoint x="155" y="1984" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-275" value="拉取市场信息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="504.97" y="1301" as="sourcePoint" />
+            <mxPoint x="500.97" y="1694" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="534.97" y="1300.97" />
-              <mxPoint x="534.97" y="1360.97" />
+              <mxPoint x="530.97" y="1693.97" />
+              <mxPoint x="530.97" y="1753.97" />
             </Array>
-            <mxPoint x="504.97" y="1360.97" as="targetPoint" />
+            <mxPoint x="500.97" y="1753.97" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-276" value="信息检查合法" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
-            <mxPoint x="323.97" y="1701" as="sourcePoint" />
+            <mxPoint x="319.97" y="2094" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="353.97" y="1700.97" />
-              <mxPoint x="353.97" y="1760.97" />
+              <mxPoint x="349.97" y="2093.9700000000003" />
+              <mxPoint x="349.97" y="2153.9700000000003" />
             </Array>
-            <mxPoint x="323.97" y="1760.97" as="targetPoint" />
+            <mxPoint x="319.97" y="2153.9700000000003" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-277" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;进行中&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2029" width="60" height="30" as="geometry" />
+          <mxGeometry x="286" y="2422" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-278" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="325" y="1801" as="sourcePoint" />
-            <mxPoint x="710" y="1801" as="targetPoint" />
+            <mxPoint x="321" y="2194" as="sourcePoint" />
+            <mxPoint x="706" y="2194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-279" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="703" y="1901" as="sourcePoint" />
-            <mxPoint x="328" y="1901" as="targetPoint" />
+            <mxPoint x="699" y="2294" as="sourcePoint" />
+            <mxPoint x="324" y="2294" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -404,131 +404,192 @@
           <mxGeometry x="-10" y="1140" width="1010" height="1031" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-281" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="495" y="1255" width="10" height="56" as="geometry" />
+          <mxGeometry x="491" y="1648" width="10" height="56" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-282" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;未初始化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1238" width="70" height="30" as="geometry" />
+          <mxGeometry x="461" y="1631" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-283" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;成功创建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1327" width="70" height="30" as="geometry" />
+          <mxGeometry x="461" y="1720" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-284" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.961;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="495.0000000000002" y="1385" as="sourcePoint" />
-            <mxPoint x="159.5" y="1385" as="targetPoint" />
+            <mxPoint x="491.0000000000002" y="1778" as="sourcePoint" />
+            <mxPoint x="155.5" y="1778" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-285" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="155" y="1373" width="10" height="158" as="geometry" />
+          <mxGeometry x="151" y="1766" width="10" height="158" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-286" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;显示投资产品信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="319.54" y="1361" width="110" height="30" as="geometry" />
+          <mxGeometry x="315.54" y="1754" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-287" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.961;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="155.00000000000017" y="1420" as="sourcePoint" />
-            <mxPoint x="41.68000000000001" y="1420" as="targetPoint" />
+            <mxPoint x="151.00000000000017" y="1813" as="sourcePoint" />
+            <mxPoint x="37.68000000000001" y="1813" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-288" value="选择投资产品" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0002" relative="1" as="geometry">
-            <mxPoint x="43.81999999999999" y="1459" as="sourcePoint" />
-            <mxPoint x="158.32" y="1459" as="targetPoint" />
+            <mxPoint x="39.81999999999999" y="1852" as="sourcePoint" />
+            <mxPoint x="154.32" y="1852" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-289" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0002" relative="1" as="geometry">
-            <mxPoint x="165" y="1501" as="sourcePoint" />
-            <mxPoint x="500" y="1501" as="targetPoint" />
+            <mxPoint x="161" y="1894" as="sourcePoint" />
+            <mxPoint x="496" y="1894" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-290" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;用户选择产品&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1476" width="90" height="30" as="geometry" />
+          <mxGeometry x="321" y="1869" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-291" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;已选中/未选中&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1461" width="90" height="30" as="geometry" />
+          <mxGeometry x="451" y="1854" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-292" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0045" relative="1" as="geometry">
-            <mxPoint x="495" y="1541" as="sourcePoint" />
-            <mxPoint x="321.92857142857133" y="1541" as="targetPoint" />
+            <mxPoint x="491" y="1934" as="sourcePoint" />
+            <mxPoint x="317.92857142857133" y="1934" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-293" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;返回产品信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="1518" width="90" height="30" as="geometry" />
+          <mxGeometry x="362" y="1911" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-294" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="315" y="1528" width="10" height="473" as="geometry" />
+          <mxGeometry x="311" y="1921" width="10" height="473" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-295" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;待审核&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1551" width="60" height="30" as="geometry" />
+          <mxGeometry x="281" y="1944" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-296" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="34" y="1606" width="10" height="85" as="geometry" />
+          <mxGeometry x="30" y="1999" width="10" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-297" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.961;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="156.32000000000016" y="1621" as="sourcePoint" />
-            <mxPoint x="43" y="1621" as="targetPoint" />
+            <mxPoint x="152.32000000000016" y="2014" as="sourcePoint" />
+            <mxPoint x="39" y="2014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-298" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;等待投资信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1566" width="90" height="30" as="geometry" />
+          <mxGeometry x="191" y="1959" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-299" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;提示输入投资信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45.06999999999999" y="1595" width="110" height="30" as="geometry" />
+          <mxGeometry x="41.06999999999999" y="1988" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-300" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="705" y="1781" width="10" height="150" as="geometry" />
+          <mxGeometry x="701" y="2174" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-301" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;绑定钱包信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1776.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="516" y="2169.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-302" value="汇率转换" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="715" y="1821" as="sourcePoint" />
+            <mxPoint x="711" y="2214" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="745" y="1820.97" />
-              <mxPoint x="745" y="1880.97" />
+              <mxPoint x="741" y="2213.9700000000003" />
+              <mxPoint x="741" y="2273.9700000000003" />
             </Array>
-            <mxPoint x="715" y="1880.97" as="targetPoint" />
+            <mxPoint x="711" y="2273.9700000000003" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-303" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;成功绑定&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="529" y="1877" width="70" height="30" as="geometry" />
+          <mxGeometry x="525" y="2270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-304" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ZWPyIBg1fmBrResqL_RG-266">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="325" y="1981" as="sourcePoint" />
-            <mxPoint x="710" y="1981" as="targetPoint" />
+            <mxPoint x="321" y="2374" as="sourcePoint" />
+            <mxPoint x="706" y="2374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-305" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;存储投资信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="569" y="1957" width="90" height="30" as="geometry" />
+          <mxGeometry x="565" y="2350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-306" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="904" y="2062" as="sourcePoint" />
-            <mxPoint x="330" y="2062" as="targetPoint" />
+            <mxPoint x="900" y="2455" as="sourcePoint" />
+            <mxPoint x="326" y="2455" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-307" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;信息存储成功&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2037" width="90" height="30" as="geometry" />
+          <mxGeometry x="566" y="2430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-308" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="310" y="2101" as="sourcePoint" />
-            <mxPoint x="165" y="2101" as="targetPoint" />
+            <mxPoint x="306" y="2494" as="sourcePoint" />
+            <mxPoint x="161" y="2494" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZWPyIBg1fmBrResqL_RG-309" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;提示新增成功&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="2079" width="90" height="30" as="geometry" />
+          <mxGeometry x="191" y="2472" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-311" value="等待投资记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0033" width="80" relative="1" as="geometry">
+            <mxPoint x="165" y="1210" as="sourcePoint" />
+            <mxPoint x="314.5" y="1210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-312" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="905" y="1210" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-313" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ZWPyIBg1fmBrResqL_RG-312">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="325" y="1229" as="sourcePoint" />
+            <mxPoint x="710" y="1229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-314" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;筛选投资信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="569" y="1205" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-315" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="904" y="1299" as="sourcePoint" />
+            <mxPoint x="330" y="1299" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-316" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;返回投资记录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1274" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-317" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="315" y="1318" as="sourcePoint" />
+            <mxPoint x="170" y="1318" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-318" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;返回投资记录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1296" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-319" value="选择投资记录" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0044" relative="1" as="geometry">
+            <mxPoint x="41.25" y="1386" as="sourcePoint" />
+            <mxPoint x="155.75" y="1386" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-320" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="34.75" y="1331" width="10" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-321" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.961;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="157.07000000000016" y="1346" as="sourcePoint" />
+            <mxPoint x="43.75" y="1346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-322" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;等待选择一条记录&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45.81999999999999" y="1320" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWPyIBg1fmBrResqL_RG-323" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;进行中&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="291" y="1175" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
