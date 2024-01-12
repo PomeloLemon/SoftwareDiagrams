@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T04:23:52.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="cqSbcxlgaonYv-wWGoCz" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T04:28:08.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="4CkAzLl8PLYawUEu2SaP" version="22.1.18" type="github">
   <diagram name="第 1 页" id="WLKe82YckZ-AthvR6e3o">
     <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="50" y="285" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-nO4xTUv9DtAdoL6QTUD-9" value="新建投资记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-nO4xTUv9DtAdoL6QTUD-9" value="新建目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="275" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c7W4a8QBwN7Kt888F0p5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-nO4xTUv9DtAdoL6QTUD-11" target="-nO4xTUv9DtAdoL6QTUD-2" edge="1">
@@ -34,7 +34,7 @@
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-11" value="待审核" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-nO4xTUv9DtAdoL6QTUD-13" value="接收用户输入&lt;br&gt;投资信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="-nO4xTUv9DtAdoL6QTUD-13" value="接收用户输入&lt;br&gt;目标信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="261" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wGgZtADMz8uqcrAGJYZ0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-nO4xTUv9DtAdoL6QTUD-17" target="wGgZtADMz8uqcrAGJYZ0-1" edge="1">
@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSopwfg_rMGLY2OUwOOp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-nO4xTUv9DtAdoL6QTUD-17" target="nSopwfg_rMGLY2OUwOOp-1">
+        <mxCell id="nSopwfg_rMGLY2OUwOOp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-nO4xTUv9DtAdoL6QTUD-17" target="nSopwfg_rMGLY2OUwOOp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-17" value="进行中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -57,7 +57,7 @@
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-20" value="合法性检查通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="524" y="271" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-nO4xTUv9DtAdoL6QTUD-26" value="删除投资信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-nO4xTUv9DtAdoL6QTUD-26" value="删除目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="271" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c7W4a8QBwN7Kt888F0p5-3" value="合法性检查未通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -72,19 +72,19 @@
         <mxCell id="wGgZtADMz8uqcrAGJYZ0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.22;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wGgZtADMz8uqcrAGJYZ0-1" target="l6yJgwb1NW9B_2ungp-H-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9GvfGTvAo8Qqltr3Y5tD-2" value="用户编辑&lt;br&gt;投资信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="9GvfGTvAo8Qqltr3Y5tD-2" value="用户编辑&lt;br&gt;目标信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="706" y="340" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nSopwfg_rMGLY2OUwOOp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nSopwfg_rMGLY2OUwOOp-1" target="wGgZtADMz8uqcrAGJYZ0-1">
+        <mxCell id="nSopwfg_rMGLY2OUwOOp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nSopwfg_rMGLY2OUwOOp-1" target="wGgZtADMz8uqcrAGJYZ0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nSopwfg_rMGLY2OUwOOp-1" value="已结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nSopwfg_rMGLY2OUwOOp-1" value="已结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nSopwfg_rMGLY2OUwOOp-5" value="删除投资信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nSopwfg_rMGLY2OUwOOp-5" value="删除目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="140" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nSopwfg_rMGLY2OUwOOp-7" value="到达投资&lt;br&gt;终止时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="nSopwfg_rMGLY2OUwOOp-7" value="到达目标&lt;br&gt;终止时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="706" y="215" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
