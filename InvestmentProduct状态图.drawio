@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T04:47:00.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="MAQymx0V5V1m3pT9iZ8b" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T04:47:30.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HMyj9jqRnMBYxIcTiyhN" version="22.1.18" type="github">
   <diagram name="第 1 页" id="WLKe82YckZ-AthvR6e3o">
     <mxGraphModel dx="1173" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,8 +53,8 @@
         <mxCell id="nL0MEKreldydN8tAXYwr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nL0MEKreldydN8tAXYwr-1" target="-nO4xTUv9DtAdoL6QTUD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nL0MEKreldydN8tAXYwr-4" value="记录投资信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="782" y="271" width="100" height="30" as="geometry" />
+        <mxCell id="nL0MEKreldydN8tAXYwr-4" value="系统记录投资信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="771" y="271" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KUIbtYuFDfmTLpgD2xUS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KUIbtYuFDfmTLpgD2xUS-4" target="l6yJgwb1NW9B_2ungp-H-36">
           <mxGeometry relative="1" as="geometry" />
