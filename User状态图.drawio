@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T18:26:51.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Wq_jC3Hk0Gs7wDWUgcrb" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T06:59:20.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AKmAtGMAc1kIfb3HA4BZ" version="22.1.18" type="github">
   <diagram name="第 1 页" id="WLKe82YckZ-AthvR6e3o">
-    <mxGraphModel dx="1173" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1614" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,14 @@
         </mxCell>
         <mxCell id="l6yJgwb1NW9B_2ungp-H-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-nO4xTUv9DtAdoL6QTUD-24" target="l6yJgwb1NW9B_2ungp-H-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPNuXroq6cXJorA_scXH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-nO4xTUv9DtAdoL6QTUD-24" target="-nO4xTUv9DtAdoL6QTUD-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="850" />
+              <mxPoint x="710" y="850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-nO4xTUv9DtAdoL6QTUD-24" value="登录成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="270" width="120" height="60" as="geometry" />
@@ -140,6 +148,9 @@
         </mxCell>
         <mxCell id="l6yJgwb1NW9B_2ungp-H-42" value="SMS验证&lt;br&gt;未通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="831.5" y="716" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPNuXroq6cXJorA_scXH-2" value="退出登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="330" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
